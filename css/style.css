@@ -1,0 +1,13 @@
+.container{background: rgb(230, 208, 208);;}
+.navbar{background: #e0e68f;;}
+.subnav{background: #eec595;;}
+.ads{background: #eec595;;}
+.header{background: rgb(166, 214, 241);}
+.footer{background: rgb(166, 214, 241);}
+
+ul{list-style: none;}
+li{display: inline-block;}
+a{text-decoration: none;margin: 0 15px;}
+
+.borderred{border:2px solid red;}
+.bordergreen{border:2px solid rgb(32, 116, 11);}
