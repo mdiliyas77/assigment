@@ -70,10 +70,15 @@ a {
     color: black
 }
 
-.figure a img:hover {
+.figure a img:hover{
     opacity: 0.5;
     height: 125px;
     width: 115px;
+    
+}
+
+figcaption a:hover{
+    color:red; font-size: 18px; font-weight: bold;
 }
 
 
@@ -93,5 +98,10 @@ a {
     width: 100%;
     height: 100%;
     padding-top: 20%;
+  }
+
+  .pagination a:hover{
+    color:red; font-size: 18px; text-shadow: maroon; font-weight: bold;
+    
   }
   
