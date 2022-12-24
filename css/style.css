@@ -19,13 +19,13 @@
 
 .header {
     background: rgb(26, 85, 212);
-    border-radius: 0px;
+    border-radius: 5px;
     color:white;
 }
 
 .footer {
     background: rgb(166, 214, 241);
-    border-radius: 0px;
+    border-radius: 5px;
     ;
 }
 
