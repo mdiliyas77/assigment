@@ -1,31 +1,31 @@
 /* .container{background: rgb(219, 219, 219);;} */
 .navbar {
     background: #9fa184;
-    border-radius: 15px;
+    border-radius: 7px;
     ;
 }
 
 .subnav {
     background: #ebd5bd;
-    border-radius: 15px;
+    border-radius: 7px;
     ;
 }
 
 .ads {
     background: #ebd5bd;
-    border-radius: 15px;
+    border-radius: 7px;
     ;
 }
 
 .header {
     background: rgb(26, 85, 212);
-    border-radius: 15px;
+    border-radius: 7px;
     color:white;
 }
 
 .footer {
     background: rgb(166, 214, 241);
-    border-radius: 15px;
+    border-radius: 7px;
     ;
 }
 
@@ -57,7 +57,7 @@ a {
     color: rgb(255, 255, 255);
     background: rgb(111, 103, 221);
     text-align: center;
-    border-radius: 10px;
+    border-radius: 7px;
     margin: 5px 0;
 }
 
