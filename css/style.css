@@ -23,7 +23,7 @@
     color:white;
 }
 
-.col-3{ padding-right: 2.75%;}
+.col-3{ padding-right: 2%;}
 
 .footer {
     background: rgb(166, 214, 241);
@@ -68,9 +68,6 @@ a {
     color: rgb(231, 222, 222);
 }
 
-.figcaption {
-    color: black
-}
 
 .figure a img:hover{
     opacity: 0.5;
