@@ -107,4 +107,10 @@ figcaption a:hover{
 .marea{
     background: #a9c6c685;
 }
+
+.content{
+    background: rgb(174, 189, 219);
+    border-radius: 5px;
+
+}
   
