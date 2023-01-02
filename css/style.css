@@ -8,8 +8,9 @@
 .subnav {
     /* background: #dadada; */
     border-radius: 5px;
-    ;
 }
+
+.subnav p { text-align: justify; padding: 0px 0px 0px 25px;}
 
 .ads {
     /* background: #dadada; */
@@ -113,7 +114,7 @@ figcaption a:hover{
 }
 
 .content{
-    background: rgb(212, 216, 224);
+    background: rgb(235, 236, 240);
     border-radius: 5px;
 
 }
