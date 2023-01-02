@@ -1,27 +1,30 @@
-/* .container{background: rgb(219, 219, 219);;} */
+.container-fluid, .container {background: #f5f1f1;}
 .navbar {
-    background: #9fa184;
+    background: #e4dbdb;
     border-radius: 5px;
     ;
 }
 
 .subnav {
-    background: #ebd5bd;
+    /* background: #dadada; */
     border-radius: 5px;
     ;
 }
 
 .ads {
-    background: #ebd5bd;
+    /* background: #dadada; */
     border-radius: 5px;
     ;
 }
 
 .header {
-    background: rgb(26, 85, 212);
+    background: rgb(166, 214, 241);
     border-radius: 5px;
-    color:white;
+    color:rgb(129, 7, 7);
+    
 }
+
+.header h1{font-weight:bolder;}
 
 .col-3{ padding-right: 2%;}
 
@@ -71,8 +74,8 @@ a {
 
 .figure a img:hover{
     opacity: 0.5;
-    height: 125px;
-    width: 115px;
+    height: 123px;
+    width: 123px;
     
 }
 
@@ -86,17 +89,18 @@ figcaption a:hover{
     overflow: hidden;
     width: 100%;
     padding-top: 75.00%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+   
   }
 
   .responsive-iframe {
     position: absolute;
     top: 0;
-    left: 0;
+    left: 10%;
     bottom: 0;
     right: 0;
-    width: 100%;
-    height: 100%;
-    padding-top: 20%;
+    width: 80%;
+    height: 80%;
+    padding-top: 7%;
   }
 
   .pagination a:hover{
@@ -105,7 +109,7 @@ figcaption a:hover{
   }
 
 .marea{
-    background: #a9c6c685;
+    /* background: #a9c6c685; */
 }
 
 .content{
